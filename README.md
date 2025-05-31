@@ -1,6 +1,6 @@
 # Bbot - Selective Web Indexing & Ranking System
 
-A lightweight, cost-aware pipeline that distills the **250 B-page Common Crawl** corpus into a clean, high-quality search index you can query with LLMs.
+A lightweight, cost-aware pipeline that distills the **10 M-page Common Crawl** corpus into a clean, high-quality search index you can query with LLMs.
 
 ## ✨ Key Features
 - **Selective crawling** – rank URLs before fetching heavy content  
